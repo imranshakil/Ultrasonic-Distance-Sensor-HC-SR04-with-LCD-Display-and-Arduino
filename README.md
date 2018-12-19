@@ -1,6 +1,6 @@
 # Ultrasonic-Distance-Sensor-HC-SR04-with-LCD-Display-and-Arduino
 
-### Connections Guidelines:
+### Connection Guidelines:
 1. HC-SR04 sensor attach to the Breadboard
 2. HC-SR04 Sensor VCC connect to the Arduino Board +5V
 3. HC-SR04 Sensor GND connect to the Arduino Board GND

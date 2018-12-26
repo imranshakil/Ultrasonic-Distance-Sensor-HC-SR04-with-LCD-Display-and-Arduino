@@ -28,3 +28,7 @@ If you want, can be use a 220 ohm resistor to power the backlight of the display
 ![Cat](https://github.com/imranshakil/Ultrasonic-Distance-Sensor-HC-SR04-with-LCD-Display-and-Arduino/blob/master/diagram.jpg)
 
 ###### Now upload code in your arduino board
+
+## Complete Project Looks
+
+![Cat](https://github.com/imranshakil/Ultrasonic-Distance-Sensor-HC-SR04-with-LCD-Display-and-Arduino/blob/master/Project_Photo.jpg)
